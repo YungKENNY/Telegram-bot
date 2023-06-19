@@ -1,0 +1,13 @@
+aiogram==3.0.0b7
+bs-orm==0.9.0
+environs
+apscheduler
+html2image
+mammoth
+beautifulsoup4
+requests
+lxml
+fake-useragent
+pillow
+pandas
+aspose-words
